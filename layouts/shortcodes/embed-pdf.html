@@ -47,6 +47,10 @@
     -webkit-animation: spin 1s ease-in-out infinite;
   }
   
+  .paginator {
+    display:none;
+  }
+  
   {{/*  Download link  */}}
   
   
@@ -204,7 +208,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-{{ substr (.Get 
      */
     function showPaginator() {
       if(hidePaginator) return
-      paginator.style.display = 'block';
+      paginator.style.display = 'none';
     }
 
     /**
