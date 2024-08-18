@@ -4,7 +4,10 @@ description: ¿Quién es Ignacio Sambrailo?
 layout: "simple"
 sharingLinks: false
 ---
-<img class= thumbnailshadow src=cover.jpg/>
+
+<figure>
+  <img class= thumbnailshadow src=cover.png alt="Ignacio Sambrailo"/>
+</figure>
 
 Me llamo `<tester_name>`, tengo `<tester_age>` años y pruebo software.
 
