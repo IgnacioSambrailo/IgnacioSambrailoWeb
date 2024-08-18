@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = ["hugo-embed-pdf-shortcode", "blowfish"] # UNCOMMENT THIS LINE
-# baseURL = "https://your_domain.com/"
+baseURL = "https://ignaciosambrailo.github.io/"
 defaultContentLanguage = "es"
 IsMultiLingual = false
 #pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
