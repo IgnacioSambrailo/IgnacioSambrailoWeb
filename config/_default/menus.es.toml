@@ -22,7 +22,7 @@
 
 [[main]]
     name = "Currículum Vitae"
-    pageRef = "cv"
+    url = "/CV-Ignacio-Sambrailo-Software-Tester.pdf"
     weight = 15
 
 # [[main]]
