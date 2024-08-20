@@ -3,7 +3,8 @@ date: 2024-01-25
 title: Testing Manual vs Automatizado
 description: Los Testers tanto “Manuales” como “Automatizadores”, ya sean especialistas o generalistas deben tener un set de habilidades y características que les permita desarrollarse exitosamente en un proyecto, así como lo son el pensamiento crítico, la comunicación, la investigación, la exploración, la curiosidad, entre muchas otras cosas más. Si pensamos al Testing como una actividad que busca generar un profundo conocimiento del producto para poder comunicar el estado actual del mismo a demanda, categorizar nuestro trabajo de dicha forma carece de sentido.
 summary: Los Testers tanto “Manuales” como “Automatizadores”, ya sean especialistas o generalistas deben tener un set de habilidades y características que les permita desarrollarse exitosamente en un proyecto, así como lo son el pensamiento crítico, la comunicación, la investigación, la exploración, la curiosidad, entre muchas otras cosas más. Si pensamos al Testing como una actividad que busca generar un profundo conocimiento del producto para poder comunicar el estado actual del mismo a demanda, categorizar nuestro trabajo de dicha forma carece de sentido.
-
+aliases:
+- /testing-manual-vs-automatizado/
 ---
 
 Caí en la trampa… Así como yo caí en la trampa, puede que varios de mis colegas también lo hayan hecho y dudo que esto vaya a cambiar en un futuro cercano.

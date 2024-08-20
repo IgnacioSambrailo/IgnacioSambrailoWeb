@@ -3,6 +3,8 @@ date: 2024-06-13
 title: Testear no es hacer casos de prueba
 description: Nuestra industria tiene una clara obsesión con los “casos de prueba”, pero no solo eso, sino que estos casos de prueba están concebidos como el resultado de nuestro trabajo y esto se ve reflejado tanto en las expectativas de nuestros clientes como de supervisores, compañeros y gente iniciante.
 summary: Nuestra industria tiene una clara obsesión con los “casos de prueba”, pero no solo eso, sino que estos casos de prueba están concebidos como el resultado de nuestro trabajo y esto se ve reflejado tanto en las expectativas de nuestros clientes como de supervisores, compañeros y gente iniciante.
+aliases:
+- /casos-de-prueba-no-son-testing/
 ---
 
 El otro día paseaba un rato por Linkedin cuando me encontré con un post al que no voy a hacer referencia directa para evitar desviar la importancia de lo que realmente quiero exponer.

@@ -3,6 +3,8 @@ date: 2024-08-07
 title: Me aburro testeando
 description: Si hacemos siempre lo mismo, es obvio que vamos a terminar por aburrirnos. Pero, ¿cuál es la solución entonces? Eso depende de vos, no existe una fórmula mágica o paso a paso a seguir para llevar tu Testing al otro nivel. Lo que puedo asegurarte, es que si llegaste hasta acá, significa al menos te preocupa no aburrirte en tu profesión, aunque la verdadera pregunta sería ¿Qué tan en serio te tomás tu profesión?
 summary: Si hacemos siempre lo mismo, es obvio que vamos a terminar por aburrirnos. Pero, ¿cuál es la solución entonces? Eso depende de vos, no existe una fórmula mágica o paso a paso a seguir para llevar tu Testing al otro nivel. Lo que puedo asegurarte, es que si llegaste hasta acá, significa al menos te preocupa no aburrirte en tu profesión, aunque la verdadera pregunta sería ¿Qué tan en serio te tomás tu profesión?
+aliases:
+- /me-aburro-testeando/
 ---
 
 Estamos acostumbrados a entender ciertas actividades como “necesarias” y por tanto, restar importancia a los sentimientos que las mismas nos provocan, por ejemplo, es necesario sacar la basura en algún momento, y no es una actividad particularmente divertida o interesante, sabemos que hay que hacerlo, que consta de una secuencia de pasos incuestionables a realizar y su resultado será exitoso en cada iteración.
