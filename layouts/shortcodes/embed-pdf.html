@@ -48,9 +48,9 @@
   }
   
   .paginator {
-    display: none;
+    display:none;
   }
-
+  
   {{/*  Download link  */}}
   
   
@@ -106,7 +106,7 @@
     <canvas class="pdf-canvas" id="pdf-canvas-{{ substr (.Get "url" | md5) 0 8 }}"></canvas>
 </div>
 
-<div class="pdf-paginator" id="pdf-paginator-{{ substr (.Get "url" | md5) 0 8 }}" display="none">
+<div class="pdf-paginator" id="pdf-paginator-{{ substr (.Get "url" | md5) 0 8 }}">
     <button id="pdf-prev-{{ substr (.Get "url" | md5) 0 8 }}">Previous</button>
     <button id="pdf-next-{{ substr (.Get "url" | md5) 0 8 }}">Next</button> &nbsp; &nbsp;
     <span>
