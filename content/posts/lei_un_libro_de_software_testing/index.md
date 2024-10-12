@@ -67,5 +67,4 @@ Mejorarse a uno mismo nunca queda en uno mismo, nuestro círculo puede contagiar
 
 Si te gustaría empezar leyendo algo, “Perfect Software And Other Illusions About Testing” es un buen libro, lamentablemente entiendo que no tiene traducción en español, la barrera de idioma es algo muy presente en IT, es en parte la razón por la cual escribo en español.
 
-Un abrazo para todos!
-
+Un abrazo a todos!
