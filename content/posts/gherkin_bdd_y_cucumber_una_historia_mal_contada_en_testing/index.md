@@ -2,6 +2,7 @@
 date: 2024-01-16
 title: Gherkin, BDD y Cucumber, una historia mal contada en Testing
 description: Poco después de haber dado mis primeros pasos en el mundo de las pruebas automatizadas escuché nombrar estos tres términos en conjunto por primera vez, mi acercamiento inicial me llevó a la misma
+summary: Poco después de haber dado mis primeros pasos en el mundo de las pruebas automatizadas escuché nombrar estos tres términos en conjunto por primera vez, mi acercamiento inicial me llevó a la misma
 aliases:
 - /gherkin-bdd-y-cucumber-una-historia-mal-contada-en-testing/
 ---
