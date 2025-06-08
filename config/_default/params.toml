@@ -9,7 +9,7 @@ colorScheme = "Ocean"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
 
-enableSearch = false
+enableSearch = true
 enableCodeCopy = false
 
 replyByEmail = true
@@ -51,6 +51,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
+  showAuthor = true
 
 [article]
   showDate = true
@@ -59,9 +60,9 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showDateOnlyInArticle = false
   showDateUpdated = true
   showAuthor = true
-  # showAuthorBottom = false
+  # showAuthorBottom = true
   showHero = true
-  heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
@@ -84,8 +85,8 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showZenMode = true
 
 [list]
-  showHero = false
-  #heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
@@ -159,3 +160,18 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   # bing = ""
   # pinterest = ""
   # yandex = ""
+
+
+[author]
+  name = "Ignacio Sambrailo"
+  email = "ignacio13sambrailo@gmail.com"
+  image = "img/ignacio_sambrailo.png"
+  imageQuality = 96
+  headline = "Software Testing y más"
+  bio = "Software Testing y más"
+  links = [
+      { linkedin = "https://www.linkedin.com/in/ignaciosambrailo/" },
+      { whatsapp = "https://wa.me/543464585114" },
+      { youtube = "https://www.youtube.com/@ignaciosambrailo" },
+      { email = "mailto:ignacio13sambrailo@gmail.com" }
+      ]

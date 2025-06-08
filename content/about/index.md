@@ -3,10 +3,12 @@ title: Sobre mi
 description: ¿Quién es Ignacio Sambrailo?
 layout: "simple"
 sharingLinks: false
+cover: "cover.png"
+
 ---
 
 <figure>
-  <img class= thumbnailshadow src=cover.png alt="Ignacio Sambrailo"/>
+  <img class= thumbnailshadow src=cover.png alt="Ignacio Sambrailo"  style="width: 100%; max-height: 700px; object-fit: cover;"/>
 </figure>
 
 Me llamo `<tester_name>`, tengo `<tester_age>` años y pruebo software.
