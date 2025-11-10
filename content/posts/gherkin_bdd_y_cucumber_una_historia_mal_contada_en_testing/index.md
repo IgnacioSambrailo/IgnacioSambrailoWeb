@@ -15,7 +15,7 @@ Si es la primera vez que oís nombrar estos términos, no hay problema, aprender
 
 ## ¿Qué es Gherkin?
 
-<img class= thumbnailshadow src=gherkin_syntax.png alt ="Gherkin Syntax"/>
+<img class= thumbnailshadow src=img/gherkin_syntax.png alt ="Gherkin Syntax"/>
 
 Gherkin o Pepinillo en su traducción al español, es en si un DSL, Lenguaje Específico de Dominio, esto significa que es un lenguaje que se creó específicamente para resolver un problema en particular proveyéndonos también de una técnica que nos permite solucionar dicho problema.
 
@@ -37,7 +37,7 @@ Supongamos que el PO cita a los desarrolladores y a nosotros, testers, para pres
 
 (Voy a emplear **Gherkin** en español para facilitar la lectura)
 
-<img class= thumbnailshadow src=gherkin_code.png alt="Cucumber code"/>
+<img class= thumbnailshadow src=img/gherkin_code.png alt="Cucumber code"/>
 
 Como podemos observar, los escenarios no son más que situaciones o ejemplos que pueden darse en nuestra funcionalidad, y las palabras: Dado, Cuando, Entonces (Given, Then, When) nos ayudan a describir claramente lo que debería de suceder en cada una de estos casos.
 
@@ -50,7 +50,7 @@ La idea es intentar cubrir todos los casos que se nos vengan a la mente para que
 ## ¿Qué origen tiene Gherkin? (Nacimiento de BDD)
 
 <figure>
-  <img class= thumbnailshadow src=daniel_north.png alt="Daniel Terhost-North"/>
+  <img class= thumbnailshadow src=img/daniel_north.png alt="Daniel Terhost-North"/>
   <figcaption>Daniel Terhost-North</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Allí es donde entra **Cucumber**.
 ## ¿Qué es Cucumber?
 
 <figure>
-  <img class= thumbnailshadow src=cucumber.png alt="Cucumber logo"/>
+  <img class= thumbnailshadow src=img/cucumber.png alt="Cucumber logo"/>
   <figcaption>Cucumber logo</figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ Con **Cucumber**!
 
 Veamos un ejemplo con pseudocódigo para que se hagan una idea:
 <figure>
-  <img class= thumbnailshadow src=cucumber_aplicado_a_gherkin.png alt="Cucumber aplicado a Gherkin"/>
+  <img class= thumbnailshadow src=img/cucumber_aplicado_a_gherkin.png alt="Cucumber aplicado a Gherkin"/>
   <figcaption>Cucumber aplicado a Gherkin</figcaption>
 </figure>
 
@@ -120,7 +120,7 @@ En el caso de que todos los Steps (Dado, Cuando, Entonces) se ejecuten exitosame
 
 ## Uniendo Gherkin + BDD + Cucumber
 <figure>
-  <img class= thumbnailshadow src=bdd_flow.png alt="BDD Flow"/>
+  <img class= thumbnailshadow src=img/bdd_flow.png alt="BDD Flow"/>
   <figcaption>Flujo BDD</figcaption>
 </figure>
 
@@ -139,7 +139,7 @@ Pero todo lo que aprendemos en la teoría, luego puede cambiar en la práctica�
 
 ## ¡Cambio de paradigma!
 <figure>
-  <img class= thumbnailshadow src=cambio_de_paradigma.png alt="Cambio de paradigma"/>
+  <img class= thumbnailshadow src=img/cambio_de_paradigma.png alt="Cambio de paradigma"/>
 </figure>
 
 Si llegaste hasta acá y no te estás preguntando ¿Cuando va a hablar de los frameworks de Selenium con Gherkin y Cucumber BDD, etc? Vas por el camino correcto, de lo contrario puede que seas parte del paradigma actual, déjame explicarme.
@@ -159,7 +159,7 @@ Entonces ¿Por qué hoy en día vemos tanta cantidad de videos que hacen referen
 Los testers nos apropiamos de estas palabras que pueden sonar “cool” para darle un uso distinto a algo que como vimos, ya tenía su uso. ¿Está mal? No, cualquiera puede usar las herramientas de la forma que desee, pero al menos entendamos el origen de todo este lío para saber la realidad detrás de todo esto.
 
 ¿Recuerdan a Aslak? ¿El creador de Cucumber? Él más que nadie quiso vincular su producto con **Gherkin** para que los equipos de desarrollo adopten su framework para guiar las pruebas en **BDD**.
-<img class= thumbnailshadow src=semaphore_uncut_aslak_podcast.png alt="Episodio numero 55 del podcast Semaphore Uncut"/>
+<img class= thumbnailshadow src=img/semaphore_uncut_aslak_podcast.png alt="Episodio numero 55 del podcast Semaphore Uncut"/>
 
 En el [episodio numero 55](https://semaphoreci.com/blog/aslak-hellesoy-cucumber?ref=ignaciosambrailo.com) del podcast [Semaphore Uncut](https://semaphoreci.com/?ref=ignaciosambrailo.com) hace mención a este cambio:
 
@@ -176,7 +176,7 @@ Es conceptualmente imposible aplicar **BDD** en Testing, al menos de la forma en
 
 Volviendo al flujo de BDD tendríamos algo como esto:
 <figure>
-  <img class= thumbnailshadow src=flujo_bdd_testing.png alt="Versión de BDD en Testing"/>
+  <img class= thumbnailshadow src=img/flujo_bdd_testing.png alt="Versión de BDD en Testing"/>
   <figcaption>Versión de BDD en Testing</figcaption>
 </figure>
 
@@ -189,7 +189,7 @@ Esto no es lo único que se altera…
 ## La realidad de Gherkin en Testing
 
 <figure>
-  <img class= thumbnailshadow src=tres_amigos.png alt="Versión de BDD en Testing"/>
+  <img class= thumbnailshadow src=img/tres_amigos.png alt="Versión de BDD en Testing"/>
   <figcaption>No más reuniones de “The Three Amigos”</figcaption>
 </figure>
 
@@ -201,13 +201,13 @@ Podrías pensar que al menos usando **Gherkin** las pruebas quedan redactadas de
 
 Luego del cambio de paradigma, nuestros escenarios de **Gherkin** dejaron de verse así:
 <figure>
-  <img class= thumbnailshadow src=gherkin_pre_cambio.png alt="Gherkin pre cambio"/>
+  <img class= thumbnailshadow src=img/gherkin_pre_cambio.png alt="Gherkin pre cambio"/>
   <figcaption><b>Gherkin</b> antes del cambio de paradigma</figcaption>
 </figure>
 
 Para verse algo parecido a esto:
 <figure>
-  <img class= thumbnailshadow src=gherkin_post_cambio.png alt="Gherkin post cambio"/>
+  <img class= thumbnailshadow src=img/gherkin_post_cambio.png alt="Gherkin post cambio"/>
   <figcaption><b>Gherkin</b> luego del cambio de paradigma</figcaption>
 </figure>
 
