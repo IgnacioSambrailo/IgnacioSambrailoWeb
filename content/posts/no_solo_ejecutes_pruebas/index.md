@@ -32,7 +32,7 @@ Si bien todos hacemos análisis en menor o mayor medida, a veces conscientemente
 
 A la hora de explorar un nuevo desarrollo, me gusta basar mis esfuerzos en la siguiente heurística.
 
-La idea es **despejar la mayor cantidad de incertidumbre existente en lo que se va a desarrollar**, atacando primeramente cuestiones más abarcativas y luego lo más específicas.
+La idea es **despejar la mayor cantidad de incertidumbre existente en lo que se va a desarrollar**, atacando primeramente cuestiones más abarcativas y luego más específicas.
 
 Imaginemos entonces un círculo gigante denominado nivel 1, que contiene a su vez a un círculo menor, nivel 2, y otro círculo aún menor, nivel 3. *Podría también ser visto como las capas de una cebolla.*
 
