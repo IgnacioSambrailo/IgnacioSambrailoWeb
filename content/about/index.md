@@ -13,14 +13,14 @@ cover: "cover.png"
 
 Me llamo `<tester_name>`, tengo `<tester_age>` años y pruebo software.
 
-Comencé mis estudios cursando poco más de un año de Ingeniería en Sistemas de Información, para luego abandonarlo convirtiendome en Técnico Sonidista. Retomé mi interés por sistemas gracias a un curso de Google acerca de User Experience.
+Empecé Ingeniería en Sistemas, la dejé al año y medio y me recibí de Técnico Sonidista. Ser sonidista me enseñó a prestar atención a aquellos detalles, que dentro de cierto contexto, pueden pasar desapercibidos. Volví a incursionarme en sistemas por un curso de Google sobre User Experience y terminé en Testing, un oficio parecido, con otros fines.
 
-Mi forma de pensar el Testing tuvo varias etapas y descubrimientos, el comienzo de mi carrera profesional fue en NEORIS, donde ocupé primeramente el puesto de Tester Trainee. Rápidamente fuí sintiendo mucha más curiosidad por el rubro, lo cual me llevó a buscar aprender de mis colegas y a querer compartir mi mirada.
+Comencé en NEORIS como Tester Trainee y hoy trabajo sobre APIs y sistemas del sector bancario. En el camino fui tomando partido por ciertas cuestiones, como por ejemplo, testear no es ejecutar casos de prueba, es investigar.
 
-Soy una persona apasionada, me interesa realizar mis tareas con dedicación, mi peor enemigo es el aburrimiento. Si voy a dedicarle tiempo a algo, es preferible que lo haga lo mejor que pueda, de otra forma no tiene sentido, esa es mi filosofía.
+Soy una persona apasionada y mi peor enemigo es el aburrimiento. Si le voy a dedicar tiempo a algo, prefiero hacerlo lo mejor que pueda; de otra forma no tiene sentido.
 
-Siempre me gustó escribir, lo cual no significa que escriba muy seguido, pero para cuando sí lo hago, creé esta web. Acá vas a encontrar reflexiones, divagues e ideas que pueden ser de utilidad, me gusta compartir mis conocimientos y creencias, así como también estudiar y leer acerca de lo que escribo.
+Esta web es donde escribo sobre todo eso: ideas, lecturas y cosas que voy estudiando mientras las escribo.
 
-Si querés hablar conmigo sobre Testing, trabajo o algo que creas que pueda interesarme, mis redes están disponibles en esta web, no dudes en contactarme.
+Si querés hablar de Testing, de trabajo o de algo que creas que puede interesarme, mis redes están acá. No dudes en escribirme.
 
 `<abrazo_greeting>`
