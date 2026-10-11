@@ -5,6 +5,8 @@ description: Leí un libro de Software Testing, más específicamente “Perfect
 summary: Leí un libro de Software Testing, más específicamente “Perfect Software And Other Illusions About Testing” de Gerald Weinberg, que en paz descanse. Antes de que te lo preguntes, no voy a tratar los temas del libro, ni es una crítica del mismo. Empecemos por algún lado, siempre quise leer algún libro de Testing de principio a fin, solo no encontraba uno que me convenza… Para ser sinceros no recuerdo cómo es que llegué a Gerald.
 aliases:
 - /lei-un-libro-de-software-testing/
+tags:
+  - fundamentos
 ---
 
 Leí un libro de Software Testing, más específicamente “Perfect Software And Other Illusions About Testing” de Gerald Weinberg, que en paz descanse. Antes de que te lo preguntes, no voy a tratar los temas del libro, ni es una crítica del mismo. Empecemos por algún lado, siempre quise leer algún libro de Testing de principio a fin, solo no encontraba uno que me convenza… Para ser sinceros no recuerdo cómo es que llegué a Gerald.

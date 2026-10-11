@@ -5,6 +5,9 @@ description: A la hora de resolver problemas, a veces nos vemos tentados a busca
 summary: A la hora de resolver problemas, a veces nos vemos tentados a buscar soluciones rápidamente, si bien esto puede ser útil para algunas situaciones cotidianas, no siempre lo es cuando se trabaja sobre el diseño de un programa, **dado que podemos estar resolviendo el problema incorrecto, o hasta un problema que no existe**.
 aliases:
 - /no-solo-ejecutes-pruebas/
+tags:
+  - fundamentos
+  - mentalidad
 ---
 
 # Introducción

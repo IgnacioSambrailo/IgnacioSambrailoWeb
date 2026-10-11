@@ -6,6 +6,7 @@ theme = ["hugo-embed-pdf-shortcode", "blowfish"] # UNCOMMENT THIS LINE
 baseURL = "https://www.ignaciosambrailo.com/"
 defaultContentLanguage = "es"
 IsMultiLingual = false
+capitalizeListTitles = false
 #pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableInlineShortcodes= true

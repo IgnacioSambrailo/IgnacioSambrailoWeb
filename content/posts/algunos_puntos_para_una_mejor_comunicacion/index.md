@@ -5,6 +5,8 @@ description: La comunicación nos interpela en todo sentido y casi todo contexto
 summary: La comunicación nos interpela en todo sentido y casi todo contexto, sin embargo, es algo que nadie nos enseña. Poder compartir nuestras ideas así como asimilar las ideas ajenas es esencial para desarrollar nuestro trabajo de la forma más efectiva posible. Un rol que se basa en entender cómo debería funcionar un producto, comunicar el estado del mismo, reportar incidencias, sugerir mejoras, entre muchas otras cosas más, nos exige que vayamos puliendo nuestra comunicación.
 aliases:
 - /algunos-puntos-para-una-mejor-comunicacion/
+tags:
+  - profesión
 ---
 
 La comunicación nos interpela en todo sentido y casi todo contexto, sin embargo, es algo que nadie nos enseña. Poder compartir nuestras ideas así como asimilar las ideas ajenas es esencial para desarrollar nuestro trabajo de la forma más efectiva posible. Un rol que se basa en entender cómo debería funcionar un producto, comunicar el estado del mismo, reportar incidencias, sugerir mejoras, entre muchas otras cosas más, nos exige que vayamos puliendo nuestra comunicación.

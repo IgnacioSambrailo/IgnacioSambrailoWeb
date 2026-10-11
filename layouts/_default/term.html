@@ -1,0 +1,23 @@
+{{/* Override del term.html del tema: dice qué tag estás viendo y cuántas publicaciones tiene.
+     El del tema son 131 líneas de ramas para cardView/groupByYear/views/likes/hero que acá
+     están todas apagadas; esto hace lo mismo que la rama que efectivamente se usaba. */}}
+{{/* ponytail: sin paginación, el tag más grande tiene 5 posts. */}}
+{{ define "main" }}
+<header>
+  {{ if .Site.Params.term.showBreadcrumbs | default false }}
+    {{ partial "breadcrumbs.html" . }}
+  {{ end }}
+  <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">#{{ .Title }}</h1>
+  <p class="mt-1 mb-2 text-base text-neutral-500 dark:text-neutral-400">
+    {{ len .Pages }} {{ if eq (len .Pages) 1 }}publicación{{ else }}publicaciones{{ end }}
+  </p>
+</header>
+
+{{ with .Content }}
+  <section class="max-w-full mt-4 prose dark:prose-invert">{{ . }}</section>
+{{ end }}
+
+<section class="w-full mt-8 space-y-10">
+  {{ range .Pages }}{{ partial "article-link/simple.html" . }}{{ end }}
+</section>
+{{ end }}

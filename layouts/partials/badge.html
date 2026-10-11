@@ -1,0 +1,7 @@
+{{/* Override: tags como texto plano con #, sin caja. El wrapper de article-meta/basic.html
+     ya aporta el onclick, por eso esto sigue siendo un span y no un <a>. */}}
+{{/* ponytail: el label de borrador y el shortcode badge comparten este partial; ninguno
+     se usa en este sitio (buildDrafts = false, cero {{< badge >}} en content/). */}}
+<span class="flex" style="cursor: pointer;">
+  <span class="text-sm font-normal text-neutral-500 transition-colors hover:text-primary-600 dark:text-neutral-400 dark:hover:text-primary-400">#{{ . }}</span>
+</span>

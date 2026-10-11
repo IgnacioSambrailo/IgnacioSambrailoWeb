@@ -5,6 +5,9 @@ description: Si bien un script puede ejecutar flujos de forma automática, esto 
 summary: Si bien un script puede ejecutar flujos de forma automática, esto no es ni de cerca el trabajo que realiza un Tester. Los resultados de dichas automatizaciones pueden servir en parte para aumentar el nivel de confianza en un sistema, pero incluso si los resultados dieran OK ¿Podríamos estar seguros que no existen errores dentro de nuestro sistema? No, ya que es imposible automatizar cada aspecto de nuestro trabajo.
 aliases:
 - /existe-el-testing-automatizado/
+tags:
+  - fundamentos
+  - automatización
 ---
 
 Seamos sinceros, tal como lo dice el título ¿Existe la posibilidad de automatizar el proceso de Testing?

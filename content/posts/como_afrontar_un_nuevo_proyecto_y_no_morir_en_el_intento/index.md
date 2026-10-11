@@ -5,6 +5,8 @@ description: En algún momento de nuestra carrera entramos en un nuevo proyecto,
 summary: En algún momento de nuestra carrera entramos en un nuevo proyecto, es desafiante comenzar en un nuevo lugar del cual desconocemos todo, esto último puede ser muy abrumador, por eso, basándome en mi experiencia quiero que nos planteemos en qué cosas enfocarnos para salir a flote y no hundirnos en el intento. Los invito a pensar en un proyecto como si fuera una casa, que tiene sus cimientos, su estructura, su gente, sus costumbres, su organización, puntos fuertes y débiles.
 aliases:
 - /como-afrontar-un-nuevo-proyecto-y-no-morir-en-el-intento/
+tags:
+  - profesión
 ---
 
 En algún momento de nuestra carrera entramos en un nuevo proyecto, es desafiante comenzar en un nuevo lugar del cual desconocemos todo, esto último puede ser muy abrumador, por eso, basándome en mi experiencia quiero que nos planteemos en qué cosas enfocarnos para salir a flote y no hundirnos en el intento.
